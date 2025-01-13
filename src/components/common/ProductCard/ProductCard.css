@@ -30,4 +30,10 @@
     color: #888;
     margin-top: 5px;
   }
-  
+  /* Imagen del producto */
+.item-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 12px;
+  }
