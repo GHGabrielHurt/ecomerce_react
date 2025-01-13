@@ -1,0 +1,30 @@
+/* CartWidget Styles */
+.cart-widget {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 12px;
+    margin-top: -14px;
+  }
+  
+  .cart-icon {
+    font-size: 30px;
+    color: #333;
+  }
+  
+  .item-count {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 2px 6px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
