@@ -1,0 +1,12 @@
+.detalle-producto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .detalle-card {
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+  }
